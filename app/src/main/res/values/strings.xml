@@ -1,0 +1,14 @@
+<!--
+  ~ /* Copyright (C) Y Media Labs, Inc 2012 - All Rights Reserved
+  ~  * Unauthorized copying of this file, via any medium is strictly prohibited
+  ~  * Proprietary and confidential
+  ~  * Written by Y Media Labs
+  ~  */
+  -->
+
+<resources>
+    <string name="app_name">TGIF</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
